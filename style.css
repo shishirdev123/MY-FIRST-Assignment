@@ -138,15 +138,16 @@ a{
     margin-left: 12%;
     margin-right: 12%;
     margin-top: 0%;
+    margin-bottom: 0%;
     color: rgb(78, 147, 238);
 }
 
 .fourth-banner{
-    box-shadow: 10px 10px 40px;
+    box-shadow: 0px 0px 40px rgb(228, 223, 223);
     border-radius: 30px;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 
 footer{
