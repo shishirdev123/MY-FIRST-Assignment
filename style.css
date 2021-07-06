@@ -1,6 +1,6 @@
 body{
     font-family: 'Noto Sans JP', sans-serif;
-    
+    margin: 0%;
 }
 
 section{
@@ -23,7 +23,8 @@ a{
 
 .header-div1{
     width: 50%;
-    padding: 2%;
+    margin-top: 100px;
+    margin-left: 50px;
 }
 
 .head-color{
@@ -54,18 +55,12 @@ a{
 
 .middle-div1 img{
     width: 100%;
-    padding-bottom: 30%;
+    padding-bottom: 0%;
+    padding-top: 0px;
 }
 
 .about-me{
     color: rgb(150, 164, 179);
-}
-
-.second-section{
-    display: flex;
-    background-image: url(Frame 57.jpg);
-    
-    
 }
 
 .middle-div1{
@@ -89,6 +84,22 @@ a{
     border-radius: 30px;
 }
 
+.top-banner{
+    background-image: url(shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    padding-top: 0%;
+    padding-bottom: 0px;
+}
+
+.third-banner{
+    margin: 50px;
+}
+
+.test-align{
+    text-align: center;
+    margin-left: 33%;
+
+}
 
 
 
