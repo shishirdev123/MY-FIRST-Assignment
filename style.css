@@ -3,6 +3,15 @@ body{
     margin: 0%;
 }
 
+.cover-photo h1{
+font-size: 150px;
+text-align: center;
+color: rgb(84, 73, 238);
+background-image: url(best-picnic-food-cover-amazon.jpg.crdownload);
+padding: 200px;
+margin-top: 0px;
+}
+
 .flexible-container{
     display: flex;
 }
@@ -16,7 +25,7 @@ a{
 }
 
 .first-section{
-    margin-bottom: 200px;
+    margin-bottom: 50px;
 }
 
 .header-div1{
@@ -88,7 +97,7 @@ a{
 
 .third-banner{
     margin: 50px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 
 .test-align{
